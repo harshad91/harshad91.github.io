@@ -28,6 +28,8 @@ github_username:  harshad91
 facebook_username: HarshadMulmuley
 linkedin_username: harshadmulmuley
 google_analytics: UA-30275590-1
+disqus:
+  shortname: https-harshad91-github-io
 
 # Build settings
 theme: minima
